@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<ellipse cx="450" cy="600" rx="300" ry="390" fill="#242428" stroke="#111111" stroke-width="4"/>
+<ellipse cx="450" cy="600" rx="215" ry="305" fill="#D5D5D3" stroke="#77777D" stroke-width="5"/>
+<path d="M450 210V990M250 390L650 810M650 390L250 810" fill="none" stroke="#A4A2A1" stroke-width="3" stroke-dasharray="18 12"/>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-019 / THREAD COLLAR / FRONT</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#242428"/>
+<g fill="none" stroke="#A4A2A1" stroke-width="3"><path d="M120 180H780V1020H120Z"/><path d="M120 180L780 1020M780 180L120 1020"/></g>
+<circle cx="450" cy="600" r="220" fill="none" stroke="#77777D" stroke-width="4" stroke-dasharray="18 12"/>
+<path d="M330 600L570 600M450 480V720" stroke="#D8D4CC" stroke-width="3"/>
+<text x="52" y="58" fill="#D8D4CC" font-family="IBM Plex Mono,monospace" font-size="15">20225-014 / EXPOSED SEAM</text>
+</svg>

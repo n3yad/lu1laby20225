@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<path d="M330 220L450 300L570 220L710 350L790 920H110L210 350Z" fill="#242428" stroke="#111111" stroke-width="4"/>
+<path d="M450 300V920M210 350L450 530L710 350M330 220L450 300L570 220" fill="none" stroke="#A4A2A1" stroke-width="4"/>
+<g fill="none" stroke="#77777D" stroke-width="3" stroke-dasharray="14 9"><path d="M110 920L450 530M790 920L450 530"/></g>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-018 / SEAM BLOUSE / FRONT</text>
+</svg>

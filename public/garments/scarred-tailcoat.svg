@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<path d="M310 170L450 260L590 170L710 330L610 1080H290L190 330Z" fill="#161619" stroke="#111111" stroke-width="4"/>
+<path d="M450 260L450 1080M310 170L450 520L590 170M190 330L330 410M710 330L570 410" fill="none" stroke="#77777D" stroke-width="5"/>
+<path d="M290 1080L450 760L610 1080" fill="#242428" stroke="#111111" stroke-width="4"/>
+<g fill="none" stroke="#A4A2A1" stroke-width="2"><path d="M330 520L220 760M570 520L680 760M390 300L340 920M510 300L560 920" stroke-dasharray="12 10"/></g>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-014 / TAILCOAT / FRONT</text>
+</svg>

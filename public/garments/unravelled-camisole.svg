@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<path d="M310 250L390 330H510L590 250L700 430L620 560L580 1030H320L280 560L200 430Z" fill="#242428" stroke="#111111" stroke-width="4"/>
+<g fill="none" stroke="#A4A2A1" stroke-width="4"><path d="M390 330L450 1030M510 330L450 1030M280 560H620"/><path d="M230 470L310 600M670 470L590 600" stroke-dasharray="14 10"/></g>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-015 / CAMISOLE / FRONT</text>
+</svg>

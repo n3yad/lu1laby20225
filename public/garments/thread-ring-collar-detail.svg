@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#242428"/>
+<g fill="none" stroke="#A4A2A1" stroke-width="4"><circle cx="450" cy="600" r="300"/><circle cx="450" cy="600" r="230"/><circle cx="450" cy="600" r="160"/></g>
+<path d="M450 300L450 900M150 600H750" stroke="#77777D" stroke-width="3" stroke-dasharray="12 10"/>
+<text x="52" y="58" fill="#D8D4CC" font-family="IBM Plex Mono,monospace" font-size="15">20225-019 / RING / DETAIL</text>
+</svg>

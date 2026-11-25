@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<path d="M370 190H530L600 350L760 1040H140L300 350Z" fill="#242428" stroke="#111111" stroke-width="4"/>
+<path d="M300 350L450 550L600 350M450 550V1040" fill="none" stroke="#A4A2A1" stroke-width="4"/>
+<g fill="none" stroke="#77777D" stroke-width="3"><circle cx="450" cy="650" r="210"/><circle cx="450" cy="650" r="150" stroke-dasharray="12 10"/></g>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-017 / MOONLACE / FRONT</text>
+</svg>

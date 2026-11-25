@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#242428"/>
+<g fill="none" stroke="#A4A2A1" stroke-width="3"><path d="M140 390C300 260 600 260 760 390M140 470C300 340 600 340 760 470"/><path d="M220 390V850M330 340V900M450 320V920M570 340V900M680 390V850" stroke-dasharray="10 8"/></g>
+<text x="52" y="58" fill="#D8D4CC" font-family="IBM Plex Mono,monospace" font-size="15">20225-015 / LACE / DETAIL</text>
+</svg>

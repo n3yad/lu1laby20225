@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+<rect width="900" height="1200" fill="#D5D5D3"/>
+<path d="M280 180H620L650 480L590 1040H470L450 520L430 1040H310L250 480Z" fill="#161619" stroke="#111111" stroke-width="4"/>
+<g fill="none" stroke="#77777D" stroke-width="4"><path d="M450 180V520M280 180H620M250 480L430 520M650 480L470 520"/><path d="M310 1040L430 900M590 1040L470 900" stroke-dasharray="14 10"/></g>
+<text x="48" y="58" fill="#111111" font-family="IBM Plex Mono,monospace" font-size="15">20225-016 / TROUSERS / FRONT</text>
+</svg>
